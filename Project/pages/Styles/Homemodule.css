@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  background: #FFFFFF;
+}
+
+.mainImage {
+  width: 1377px;
+  height: 533px;
+  margin-left: 62px;
+  object-fit: fill;
+}
