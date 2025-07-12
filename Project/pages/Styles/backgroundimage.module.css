@@ -1,0 +1,9 @@
+.backgroundImage {
+  height: 1024px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  background-image: url('https://storage.googleapis.com/tagjs-prod.appspot.com/v1/se9wifkIKd/v54ncv33_expires_30_days.png');
+  background-size: cover;
+  background-position: center;
+}
